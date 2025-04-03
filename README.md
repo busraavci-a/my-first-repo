@@ -9,7 +9,7 @@ This repository contains my first steps into the world of programming.
 - 📌 I'll be sharing my learning journey here!  
 
 ## 📫 Contact Me  
-📧 Email: *kilincbsr@gmail.com 
+📧 Email: kilincbsr@gmail.com 
 🔗 wwww.linkedin.com/in/büşra-avcı-012862342 
 
 🛠️ **I'm new to coding—let's learn together!** 🚀  
